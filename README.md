@@ -271,8 +271,7 @@ data-science-final-project/
 
 - Review the course materials from the training
 - Check the resources linked above
-- Ask your instructor during office hours
-- Collaborate with classmates (but submit your own work!)
+- Ask me
 
 ---
 
